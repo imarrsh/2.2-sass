@@ -1,0 +1,6 @@
+// bootstrap variable overrides
+$icon-font-path: "../bower_components/bootstrap-sass/assets/fonts/bootstrap";
+$grid-gutter-width: 20px !default;
+
+// import bootstrap
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap";
